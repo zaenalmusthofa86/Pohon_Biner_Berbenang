@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1564802805 source:d:\pelita bangsa\tahap 3 (semester 2)\p.yoga (struktur data)\311810782_ti18c2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<iostream>
+
